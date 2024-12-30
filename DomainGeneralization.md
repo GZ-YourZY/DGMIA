@@ -26,4 +26,4 @@ Ran Gu, Guotai Wang, Jiangshan Lu, Jingyang Zhang, Wenhui Lei, Yinan Chen, Wenju
 - [Learning Generalized Medical Image Segmentation from Decoupled Feature Queries](https://ojs.aaai.org/index.php/AAAI/article/view/27839)  
 Bi, Qi and Yi, Jingjun and Zheng, Hao and Ji, Wei and Huang, Yawen and Li, Yuexiang and Zheng, Yefeng  
 *Proceedings of the AAAI Conference on Artificial Intelligence* (2024)
-[Code](https://github.com/HiLab-git/DAG4MIA/tree/main/code)
+[Code](https://github.com/BiQiWHU/DFQ)
