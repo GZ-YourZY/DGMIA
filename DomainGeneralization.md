@@ -3,12 +3,12 @@
 
 ## Single Domain Generalization
 - [Devil is in Channels: Contrastive Single Domain Generalization for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_2)  
-Shishuai Hu and Zehui Liao and Yong Xia
+Shishuai Hu and Zehui Liao and Yong Xia  
 *Medical Image Computing and Computer Assisted Intervention* (2023)
 [Code](https://github.com/ShishuaiHu/CCSDG)
 
 - [Structure-aware single-source generalization with pixel-level disentanglement for joint optic disc and cup segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_2)  
-Jia-Xuan Jiang and Yuee Li and Zhong Wang
+Jia-Xuan Jiang and Yuee Li and Zhong Wang  
 *Biomedical Signal Processing and Control* (2025)
 [Code](https://github.com/HopkinsKwong/PCSDG)
 
@@ -21,4 +21,9 @@ Wang, Shujun and Yu, Lequan and Li, Kang and Yang, Xin and Fu, Chi-Wing and Heng
 - [CDDSA: Contrastive domain disentanglement and style augmentation for generalizable medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001640)  
 Ran Gu, Guotai Wang, Jiangshan Lu, Jingyang Zhang, Wenhui Lei, Yinan Chen, Wenjun Liao, Shichuan Zhang, Kang Li, Dimitris N. Metaxas, Shaoting Zhang  
 *Medical Image Analysis* (2023)
+[Code](https://github.com/HiLab-git/DAG4MIA/tree/main/code)
+
+- [Learning Generalized Medical Image Segmentation from Decoupled Feature Queries](https://ojs.aaai.org/index.php/AAAI/article/view/27839)  
+Bi, Qi and Yi, Jingjun and Zheng, Hao and Ji, Wei and Huang, Yawen and Li, Yuexiang and Zheng, Yefeng  
+*Proceedings of the AAAI Conference on Artificial Intelligence* (2024)
 [Code](https://github.com/HiLab-git/DAG4MIA/tree/main/code)
